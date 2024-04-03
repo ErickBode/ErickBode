@@ -6,6 +6,7 @@ I hold a Bachelor's Degree in Computer Engineering, where I delved into a divers
 
 ---
 
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.discordapp.com/attachments/1220241150028415046/1225225967237206086/brand-uipath.1024x1024.png?ex=66205b9a&is=660de69a&hm=7ad02131941afb41d85bead0e6607e3bc1ad6e75dee042c594085770192de5eb&" />
