@@ -8,7 +8,7 @@ I hold a Bachelor's Degree in Computer Engineering, where I delved into a divers
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.discordapp.com/attachments/1219108340441813084/1221007804295548939/brand-uipath.1024x1024.png?ex=66110321&is=65fe8e21&hm=c71d303b4432f1f3d67427187cf72eceb2f5ff0d3af784e3b9c5616d5f42a219&" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.discordapp.com/attachments/1220241150028415046/1225225311520690246/brand-uipath.png?ex=66205afd&is=660de5fd&hm=cdecce1c3b8113d557ff130a2d44725598a4cfedbd564af1ab79d025115c98a6&" />
 <img align="left" alt="Power Automate" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=256&id=kTTt25v6Drpd&format=png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
